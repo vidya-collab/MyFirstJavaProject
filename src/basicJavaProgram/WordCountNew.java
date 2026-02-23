@@ -1,6 +1,8 @@
 package basicJavaProgram;
 
-public class WordCount {
+
+
+public class WordCountNew {
 
     public static int countWords(String sentence) {
         if (sentence == null || sentence.trim().isEmpty()) {
@@ -13,4 +15,5 @@ public class WordCount {
         String sentence = "Hello world this is a test";
         System.out.println("Word count: " + countWords(sentence));
     }
+}{
 }
