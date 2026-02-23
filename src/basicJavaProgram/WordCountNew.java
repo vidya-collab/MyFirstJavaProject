@@ -15,5 +15,4 @@ public class WordCountNew {
         String sentence = "Hello world this is a test";
         System.out.println("Word count: " + countWords(sentence));
     }
-}{
 }
